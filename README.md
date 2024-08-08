@@ -12,13 +12,13 @@ Typing Speed Test is a Python-based application that allows users to test their 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/typing-speed-test.git
+   git clone https://github.com/Athrudev/Typing-Speed-Calculator.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd typing-speed-test
+   cd Typing-Speed-Calculator
    ```
 
 3. Run the application:
