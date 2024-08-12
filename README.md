@@ -26,6 +26,12 @@ Typing Speed Test is a Python-based application that allows users to test their 
    ```
    python main.py
    ```
+## Live Preview
+
+For a live preview of this project, you can use Google Colab. Click on the link below to open the notebook:
+
+[Open in Google Colab](https://colab.research.google.com/drive/13I7KB6zFuSlI2URF2xrSyXDmTfGoxgMY?usp=sharing)
+
 
 ## Usage
 
